@@ -66,6 +66,8 @@ public interface Figure {
 
         public abstract Figure createNewFigure();
     }
+    
+    int getNewPresent();  #add by Zasimovich
 
     int getLeft();
 
